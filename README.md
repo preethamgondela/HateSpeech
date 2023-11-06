@@ -3,19 +3,7 @@ Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hat
 
 This repository contains the code of the paper **Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech** accepted at [The 7th Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/) at [ACL 2023](https://2023.aclweb.org/).
 
-Authors
--------
 
-[Flor Miriam Plaza-del-Arco](http://fmplaza.github.io/) •
-[Debora Nozza](http://dnozza.github.io/) •
-[Dirk Hovy](https://faculty.unibocconi.eu/dirkhovy/) •
-
-License
--------
-
-Code comes from HuggingFace and thus our License is an MIT license.
-
-For models restrictions may apply on the data (which are derived from existing datasets) or Twitter (main data source). We refer users to the original licenses accompanying each dataset and Twitter regulations.
 
 <!---
 
